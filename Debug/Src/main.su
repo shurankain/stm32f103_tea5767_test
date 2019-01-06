@@ -1,3 +1,7 @@
-main.c:137:6:SystemClock_Config	72	static
-main.c:87:5:main	24	static
-main.c:178:6:Error_Handler	0	static
+main.c:89:6:printFreq	16	static
+main.c:112:6:printFreqDown	8	static
+main.c:120:6:printFreqUp	8	static
+main.c:128:6:setFreq	8	static
+main.c:197:6:SystemClock_Config	72	static
+main.c:138:5:main	8	static
+main.c:235:6:Error_Handler	0	static
